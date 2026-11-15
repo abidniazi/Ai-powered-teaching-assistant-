@@ -192,7 +192,7 @@ npm start
 ---
 
 👨‍💻 Author
-
+ Muhammad Abid (Abid Niazi)
 BS Information Technology – Final Year Project
 
 ---
